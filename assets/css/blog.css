@@ -64,8 +64,8 @@ main {
   font-weight: 300;
 }
 #text-wrapper a {
-  color: cyan;
-  border-bottom: 1px solid cyan;
+  color: rgb(0, 255, 157);
+  border-bottom: 1px solid rgb(0, 255, 136);
 }
 #social-wrapper {
   margin-top: 1rem;
