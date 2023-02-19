@@ -176,3 +176,18 @@ main {
     font-size: 1rem;
   }
 }
+nav ul {
+  display: flex;
+  list-style: none;
+}
+nav ul li{
+  margin-right: 10px;
+}
+nav ul li a {
+  text-decoration: none;
+  color: #a9abb3;
+}
+
+nav ul li a:hover {
+  text-decoration: underline;
+}

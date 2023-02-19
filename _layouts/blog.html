@@ -1,8 +1,20 @@
+---
+layout: default
+---
 <!DOCTYPE html>
 <html lang="en">
   {% include head.html %}
   <body>
     <main>
+      <nav>
+        <ul>
+          {% for item in site.data.navigation.main %}
+          <li>
+            <a href="{{item.url}}">{{item.title}}</a>
+          </li>
+          {% endfor %}
+        </ul>
+      </nav>
       {% include header.html %} {% include bio.html %}
       <section class="articles">
         {% for post in site.posts %}

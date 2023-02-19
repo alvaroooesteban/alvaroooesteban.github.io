@@ -1,0 +1,11 @@
+main:
+  - title: "home"
+    url: /
+  - title: "caros"
+    url: /caros/
+  - title: "baratos"
+    url: /baratos/
+  - title: "tabla"
+    url: /tabla/
+  - title: datatable
+    url: /data/
