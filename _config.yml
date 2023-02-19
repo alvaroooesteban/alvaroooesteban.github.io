@@ -15,8 +15,12 @@ plugins:
 
 collections_dir: all_collections
 collections:
+  -admins
+  google_analytics: G-49ZYZDQ7WN
   posts:
     output: true
+  
+
 
 defaults:
   - scope:
