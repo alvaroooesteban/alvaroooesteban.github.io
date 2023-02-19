@@ -8,3 +8,4 @@ gem "jekyll-feed"
 gem 'jekyll', '~> 3.9.3'
 gem "kramdown"
 gem "kramdown-parser-gfm"
+gem "jekyll-paginate"
