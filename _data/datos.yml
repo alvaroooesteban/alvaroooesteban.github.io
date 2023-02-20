@@ -1,17 +1,8 @@
 ---
-- valor1: JUAN
+- valor1: Juan
   valor2: H
-  valor3: 26 
-- valor1: PEDRO
-  valor2: H
-  valor3: 59
-- valor1: JULIANA
+  valor3: 25
+- valor1: Maria
   valor2: M
-  valor3: 21
-  - valor1: VICENTE
-  valor2: H
-  valor3: 48
-- valor1: CARLA
-  valor2: M
-  valor3: 39
+  valor3: 30
 ---
