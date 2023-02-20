@@ -1,10 +1,10 @@
-title: HOLA CARIÑO
+title: Alvaro Esteban Github Pages
 markdown: kramdown
 
 # for atom feed
 author: 
   name: danielocf
-  email: daniel.renedo@educa.madrid.org
+  email: alvaroestebangonzalo@hotmail.com
 
 plugins:
   - jemoji
