@@ -1,12 +1,12 @@
 :root {
   --gray-1: #0044ff;
   --gray-2: #1157da;
-  --gray-3: #902c7a;
+  --gray-3: #0fcf8f;
   --gray-4: #151618;
-  --gray-5: #330138;
+  --gray-5: #1900ff;
   --gray-6: #111111;
-  --white-1: #ff05e6;
-  --white-2: #80ff00;
+  --white-1: #ff9c07;
+  --white-2: #ff3705;
 }
 #category-modal-bg {
   position: fixed;
@@ -84,7 +84,7 @@ nav ul li{
 }
 nav ul li a {
   text-decoration: none;
-  color: #04ff00;
+  color: #fbff00;
 }
 
 nav ul li a:hover {
