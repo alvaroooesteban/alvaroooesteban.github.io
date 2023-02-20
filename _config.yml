@@ -11,7 +11,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
-  - jekyll-pagination
+  - jekyll-paginate
 
 collections_dir: all_collections
 collections:
