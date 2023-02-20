@@ -3,7 +3,7 @@ markdown: kramdown
 
 # for atom feed
 author: 
-  name: danielocf
+  name: alvaroesteban
   email: alvaroestebangonzalo@hotmail.com
 
 plugins:

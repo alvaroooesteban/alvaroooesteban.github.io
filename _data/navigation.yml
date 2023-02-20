@@ -1,11 +1,9 @@
 main:
-  - title: "home"
+  - title: "Home"
     url: /
-  - title: "caros"
-    url: /caros/
-  - title: "baratos"
-    url: /baratos/
-  - title: "tabla"
-    url: /tabla/
-  - title: datatable
+  - title: "Informacion"
+    url: /info/
+  - title: "Aprendiendo Jekyll"
+    url: /aprendiendo-jekyll/
+  - title: Datatable
     url: /data/
